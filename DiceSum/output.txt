@@ -1,0 +1,18 @@
+PS C:\Users\vibha\OneDrive\Desktop\c++> cd "c:\Users\vibha\OneDrive\Desktop\c++\cf_prac\" ; if ($?) { g++ DiceSum.cpp -o DiceSum } ; if ($?) { .\DiceSum }
+4
+8
+PS C:\Users\vibha\OneDrive\Desktop\c++\cf_prac> cd "c:\Users\vibha\OneDrive\Desktop\c++\cf_prac\" ; if ($?) { g++ DiceSum.cpp -o DiceSum } ; if ($?) { .\DiceSum }
+0
+1
+PS C:\Users\vibha\OneDrive\Desktop\c++\cf_prac> cd "c:\Users\vibha\OneDrive\Desktop\c++\cf_prac\" ; if ($?) { g++ DiceSum.cpp -o DiceSum } ; if ($?) { .\DiceSum }
+12
+1936
+PS C:\Users\vibha\OneDrive\Desktop\c++\cf_prac> cd "c:\Users\vibha\OneDrive\Desktop\c++\cf_prac\" ; if ($?) { g++ DiceSum.cpp -o DiceSum } ; if ($?) { .\DiceSum }
+35
+550269055
+PS C:\Users\vibha\OneDrive\Desktop\c++\cf_prac> cd "c:\Users\vibha\OneDrive\Desktop\c++\cf_prac\" ; if ($?) { g++ DiceSum.cpp -o DiceSum } ; if ($?) { .\DiceSum }
+-1
+0
+PS C:\Users\vibha\OneDrive\Desktop\c++\cf_prac> cd "c:\Users\vibha\OneDrive\Desktop\c++\cf_prac\" ; if ($?) { g++ DiceSum.cpp -o DiceSum } ; if ($?) { .\DiceSum }
+3
+4
