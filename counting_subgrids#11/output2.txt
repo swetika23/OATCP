@@ -1,0 +1,13 @@
+PS C:\Users\vibha\OneDrive\Desktop\OACP\counting_subgrids#11> cd "c:\Users\vibha\OneDrive\Desktop\OACP\counting_subgrids#11\" ; if ($?) { g++ source.cpp -o source } ; if ($?) { .\source }
+10
+0 0 0 1 0 0 1 0 0 1
+1 0 0 1 1 0 0 1 0 0
+1 0 1 1 0 1 0 1 1 1
+0 0 0 0 1 1 1 0 0 1
+0 0 0 1 0 0 1 0 0 1
+1 1 0 1 0 0 1 1 1 1
+0 0 0 0 0 0 0 0 1 1
+1 1 1 1 1 1 1 0 0 1
+1 0 0 1 0 1 0 0 1 1
+0 1 0 1 1 1 0 0 1 0
+112
