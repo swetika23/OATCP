@@ -1,0 +1,4 @@
+PS C:\Users\vibha\OneDrive\Desktop\OACP\Minimum_Hamming#10> cd "c:\Users\vibha\OneDrive\Desktop\OACP\Minimum_Hamming#10\" ; if ($?) { g++ source.cpp -o source } ; if ($?) { .\source }
+5
+8 5 13 27 25
+24
