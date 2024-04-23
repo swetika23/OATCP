@@ -1,0 +1,2 @@
+PS C:\Users\vibha\OneDrive\Desktop\Maximum_flow#12> cd "c:\Users\vibha\OneDrive\Desktop\Maximum_flow#12\" ; if ($?) { g++ source.cpp -o source } ; if ($?) { .\source }
+Max Flow: 0
