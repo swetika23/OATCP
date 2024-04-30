@@ -1,0 +1,6 @@
+PS C:\Users\vibha\OneDrive\Desktop\Valid_Arrangement#14> cd "c:\Users\vibha\OneDrive\Desktop\Valid_Arrangement#14\" ; if ($?) { g++ code.cpp -o code } ; if ($?) { .\code }
+5
+3 1 2 5 11 9 9 4 1 2
+3 1
+1 2
+2 5
